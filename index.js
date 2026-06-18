@@ -2,9 +2,9 @@ const mineflayer = require('mineflayer')
 
 function createBot() {
   const bot = mineflayer.createBot({
-    host: 'schoolsmpco.aternos.me',
-    port: 49898,
-    username: 'DRIPPY',
+    host: 'donutrealsmp.aternos.me',
+    port: 14823,
+    username: 'DonutBot',
     version: '1.20.1',
     auth: 'offline'
   })
